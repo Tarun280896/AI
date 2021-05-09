@@ -1,1 +1,1 @@
-# contains exmaples of tensorflow models
+# contains deep learning models (tensorflow)
